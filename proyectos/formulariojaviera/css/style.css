@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.primero {
+	margin-top: 5vh;	
+}
+
+.fieldset{
+
+	border-color: blue;
+	width: 500px;
+	
+}
+
+.imagen {
+	text-align: center;
+}
+
+.body {
+	background: rgb(4,9,245);
+background: linear-gradient(90deg, rgba(4,9,245,1) 15%, rgba(255,238,32,0.9444152661064426) 80%);
+
+color: black;
+}
+
